@@ -18,7 +18,7 @@ pipeline {
 
     stage('Test'){
       steps {
-        sh './output' sswf3ewge3    
+        sh './outpuw2'    
       }
     }
 
